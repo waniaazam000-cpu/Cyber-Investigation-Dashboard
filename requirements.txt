@@ -1,0 +1,13 @@
+streamlit
+Pillow
+exifread
+pypdf
+python-docx
+python-whois
+requests
+dnspython
+python-dotenv
+pandas
+validators
+tldextract
+reportlab

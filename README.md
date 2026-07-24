@@ -5,8 +5,7 @@ Project Overview
 Cyber Investigation Dashboard is a Python-based cybersecurity investigation platform developed using Streamlit. It combines digital forensics, metadata analysis, OSINT, threat intelligence, DNS investigation, and risk assessment into a single interactive dashboard.
 
 The project helps investigators analyze uploaded files and websites, generate investigation reports, and identify potential security risks.
-
-⸻
+link (https://waniaazam000-cpu-ewxa3hrxvqxae3l4ocgmbm.streamlit.app/)
 
 Features
 
